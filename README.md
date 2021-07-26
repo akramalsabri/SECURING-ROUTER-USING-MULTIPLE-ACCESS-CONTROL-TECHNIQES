@@ -12,3 +12,5 @@ Access Control Lists (ACL) are very powerful security feature of Cisco IOS.
 By using Access Control Lists (ACL), we can deny unwanted access to the network while allowing internal users appropriate access to necessary services. Access Control Lists (ACL) are a set of commands, grouped together (by a number or name), that are used to filter traffic entering or leaving an interface. Access Control Lists (ACL)    commands define which traffic is permitted and which is denied.
 
 In my project I am going to implement access (ACL) to filter the data that are coming in or going out of the network.  
+
+I used packet tracer simulation program.
